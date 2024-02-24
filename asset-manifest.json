@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eastvantage-assessment/static/css/main.a28d9b35.css",
+    "main.js": "/eastvantage-assessment/static/js/main.c6f7964f.js",
+    "static/js/453.2319c59a.chunk.js": "/eastvantage-assessment/static/js/453.2319c59a.chunk.js",
+    "static/media/eastvantage-logo.png": "/eastvantage-assessment/static/media/eastvantage-logo.877fce1639226cf1c603.png",
+    "index.html": "/eastvantage-assessment/index.html",
+    "main.a28d9b35.css.map": "/eastvantage-assessment/static/css/main.a28d9b35.css.map",
+    "main.c6f7964f.js.map": "/eastvantage-assessment/static/js/main.c6f7964f.js.map",
+    "453.2319c59a.chunk.js.map": "/eastvantage-assessment/static/js/453.2319c59a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28d9b35.css",
+    "static/js/main.c6f7964f.js"
+  ]
+}
